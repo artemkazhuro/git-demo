@@ -1,3 +1,3 @@
 # git-demo
 
-Non fast forward commit
+Non fast forward commit 2
